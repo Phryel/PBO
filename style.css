@@ -1,0 +1,14 @@
+body{
+    background-color: pink;
+}
+
+h5 , p{
+    text-align: center;
+}
+tr{
+    text-align:justify;
+}
+
+table{
+    margin:auto;
+}
