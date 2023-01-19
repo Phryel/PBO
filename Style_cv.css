@@ -1,0 +1,15 @@
+table{
+    
+    width: 599px;
+    height: 250px;
+    
+    border: 1px solid#000000;
+}
+.profile{
+    float: left;
+    width: 100px;
+    height: 100px;
+}
+.p-text{
+    vertical-align: 10px;
+}
